@@ -7,7 +7,7 @@ use yii\grid\GridView;
 /* @var $searchModel app\models\PessoaSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Pessoas teste git git volta pessoa teste';
+$this->title = 'Pessoas teste git git volta pessoa teste 11:09';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="pessoa-index">
