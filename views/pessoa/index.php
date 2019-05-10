@@ -8,7 +8,7 @@ use yii\grid\GridView;
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
 
-$this->title = 'Pessoas' ;
+$this->title = 'Lista de Pessoas =D' ;
 
 $this->params['breadcrumbs'][] = $this->title;
 ?>
